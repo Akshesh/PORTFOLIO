@@ -1,0 +1,5 @@
+Flask==2.1.0
+Scrapy==2.5.1
+pyopenssl==22.0.0
+cryptography==38.0.4
+Flask-Cors
